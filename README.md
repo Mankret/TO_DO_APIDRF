@@ -146,9 +146,9 @@ Use the superuser credentials to manage tasks via Django Admin.
 ## 📈 Future Improvements
 
 * User authentication (JWT)
-* Permissions
-* Filtering and search
-* Pagination
+* Permissions ✅
+* Filtering and search ✅
+* Pagination ✅
 * Docker support
 
 ---
