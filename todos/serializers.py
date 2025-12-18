@@ -3,11 +3,8 @@ from .models import Todo
 
 
 class TodoSerializer(serializers.ModelSerializer):
+    owner = serializers.ReadOnlyField(source='owner.username')
+
     class Meta:
         model = Todo
-        fields = [
-            'id',
-            'title',
-            'is_completed',
-            'created_at',
-        ]
+        fields = '__all__'

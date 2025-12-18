@@ -1,6 +1,6 @@
 # To-Do List API (Django + DRF)
 
-Simple REST API for managing a list of tasks (To-Do items). The project is built with **Django** and **Django REST Framework** and demonstrates a clean, production-like backend architecture.
+Simple REST API for managing a list of tasks (To-Do items). The project is built with **Django** and **Django REST Framework**.
 
 ---
 
@@ -145,7 +145,7 @@ Use the superuser credentials to manage tasks via Django Admin.
 
 ## 📈 Future Improvements
 
-* User authentication (JWT)
+* User authentication (JWT) ✅
 * Permissions ✅
 * Filtering and search ✅
 * Pagination ✅
@@ -155,4 +155,4 @@ Use the superuser credentials to manage tasks via Django Admin.
 
 ## 👤 Author
 
-Pet project  by Mankret for learning backend development with Django REST Framework.
+Pet project by Mankret for backend development with Django REST Framework.
