@@ -9,7 +9,7 @@ Simple REST API for managing a list of tasks (To-Do items). The project is built
 * Create a task
 * Get list of tasks
 * Get a single task
-* Update task (mark as completed)
+* Update task
 * Delete task
 * Admin panel for managing tasks
 
@@ -20,7 +20,7 @@ Simple REST API for managing a list of tasks (To-Do items). The project is built
 * Python 3
 * Django
 * Django REST Framework
-* SQLite (default, easy to replace with PostgreSQL)
+* SQLite (default)
 * python-dotenv (environment variables management)
 
 ---
